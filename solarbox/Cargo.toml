@@ -1,0 +1,13 @@
+[package]
+name = "solarbox"
+version = "0.1.0"
+edition = "2021"
+description = "SolarBox - a small Lua fantasy console"
+
+[dependencies]
+mlua = { version = "0.10", features = ["lua54", "vendored"] }
+minifb = "0.27"
+
+[profile.release]
+opt-level = 3
+lto = true

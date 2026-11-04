@@ -1,0 +1,5 @@
+cargo:rerun-if-changed=build
+cargo:rustc-link-search=native=/home/dfilton/Desktop/solarbox/target/release/build/mlua-sys-1a4b76d1648c7a01/out/lua-build/lib
+cargo:rustc-link-lib=static=lua5.4
+cargo:include=/home/dfilton/Desktop/solarbox/target/release/build/mlua-sys-1a4b76d1648c7a01/out/lua-build/include
+cargo:lib=/home/dfilton/Desktop/solarbox/target/release/build/mlua-sys-1a4b76d1648c7a01/out/lua-build/lib

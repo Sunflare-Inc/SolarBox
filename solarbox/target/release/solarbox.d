@@ -1,0 +1,1 @@
+/home/dfilton/Desktop/solarbox/target/release/solarbox: /home/dfilton/Desktop/solarbox/src/api.rs /home/dfilton/Desktop/solarbox/src/app.rs /home/dfilton/Desktop/solarbox/src/editor.rs /home/dfilton/Desktop/solarbox/src/gfx.rs /home/dfilton/Desktop/solarbox/src/input.rs /home/dfilton/Desktop/solarbox/src/main.rs /home/dfilton/Desktop/solarbox/src/settings.rs
